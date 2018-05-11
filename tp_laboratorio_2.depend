@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526020129 source:c:\users\aceve\documents\workspace\tp_laboratorio_2\tp_laboratorio_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"funciones.h"
+
+1526020911 source:c:\users\aceve\documents\workspace\tp_laboratorio_2\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1526019574 c:\users\aceve\documents\workspace\tp_laboratorio_2\tp_laboratorio_2\funciones.h
+
